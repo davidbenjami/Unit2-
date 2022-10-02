@@ -1,10 +1,10 @@
 # Unit2Project-
 
-# Android Project 2 - *Name of App Here*
+# Android Project 2 - *Codepathmail*
 
-Submitted by: **Your Name Here**
+Submitted by: **David Bogunjoko-Benjamin**
 
-**Name of your app** is a wishlist app that helps the user keep track of what they want to buy.
+**Codepathmail** is a wishlist app that helps the user keep track of what they want to buy.
 
 Time spent: **X** hours spent in total
 
@@ -44,7 +44,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [David Bogunjoko-Benjamin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
